@@ -1,0 +1,293 @@
+[
+  {
+    "ContainingType": "PatientDashboardAPI.Controllers.AppointmentsController",
+    "Method": "GetAppointments",
+    "RelativePath": "api/Appointments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[PatientDashboardAPI.Models.Appointment, patient, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PatientDashboardAPI.Controllers.AppointmentsController",
+    "Method": "CreateAppointment",
+    "RelativePath": "api/Appointments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "appointment",
+        "Type": "PatientDashboardAPI.Models.Appointment",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PatientDashboardAPI.Models.Appointment",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PatientDashboardAPI.Controllers.AppointmentsController",
+    "Method": "DeleteAppointment",
+    "RelativePath": "api/Appointments/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PatientDashboardAPI.Controllers.MedicalRecordsController",
+    "Method": "GetMedicalRecords",
+    "RelativePath": "api/MedicalRecords",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[PatientDashboardAPI.Models.MedicalRecord, patient, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PatientDashboardAPI.Controllers.MedicalRecordsController",
+    "Method": "CreateMedicalRecord",
+    "RelativePath": "api/MedicalRecords",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "record",
+        "Type": "PatientDashboardAPI.Models.MedicalRecord",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PatientDashboardAPI.Models.MedicalRecord",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PatientDashboardAPI.Controllers.MedicalRecordsController",
+    "Method": "DeleteMedicalRecord",
+    "RelativePath": "api/MedicalRecords/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PatientDashboardAPI.Controllers.PatientDashboardController",
+    "Method": "GetPatientDashboard",
+    "RelativePath": "api/PatientDashboard/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PatientDashboardAPI.Controllers.PatientDashboardController",
+    "Method": "UpdatePatientInfo",
+    "RelativePath": "api/PatientDashboard/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updated",
+        "Type": "PatientDashboardAPI.Models.Patient",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PatientDashboardAPI.Controllers.PatientsController",
+    "Method": "GetPatients",
+    "RelativePath": "api/Patients",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[PatientDashboardAPI.Models.Patient, patient, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PatientDashboardAPI.Controllers.PatientsController",
+    "Method": "CreatePatient",
+    "RelativePath": "api/Patients",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patient",
+        "Type": "PatientDashboardAPI.Models.Patient",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PatientDashboardAPI.Models.Patient",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PatientDashboardAPI.Controllers.PatientsController",
+    "Method": "GetPatient",
+    "RelativePath": "api/Patients/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PatientDashboardAPI.Models.Patient",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PatientDashboardAPI.Controllers.PatientsController",
+    "Method": "UpdatePatient",
+    "RelativePath": "api/Patients/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "patient",
+        "Type": "PatientDashboardAPI.Models.Patient",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PatientDashboardAPI.Controllers.PatientsController",
+    "Method": "DeletePatient",
+    "RelativePath": "api/Patients/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "patient.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[patient.WeatherForecast, patient, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

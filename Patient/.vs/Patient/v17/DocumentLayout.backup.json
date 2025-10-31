@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mahmoud Farag\\source\\repos\\Patient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA455E60-1A38-493A-9529-4A08DD7A6253}|patient.csproj|c:\\users\\mahmoud farag\\source\\repos\\patient\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA455E60-1A38-493A-9529-4A08DD7A6253}|patient.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA455E60-1A38-493A-9529-4A08DD7A6253}|patient.csproj|c:\\users\\mahmoud farag\\source\\repos\\patient\\controllers\\patientdashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA455E60-1A38-493A-9529-4A08DD7A6253}|patient.csproj|solutionrelative:controllers\\patientdashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA455E60-1A38-493A-9529-4A08DD7A6253}|patient.csproj|c:\\users\\mahmoud farag\\source\\repos\\patient\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA455E60-1A38-493A-9529-4A08DD7A6253}|patient.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA455E60-1A38-493A-9529-4A08DD7A6253}|patient.csproj|c:\\users\\mahmoud farag\\source\\repos\\patient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA455E60-1A38-493A-9529-4A08DD7A6253}|patient.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA455E60-1A38-493A-9529-4A08DD7A6253}|patient.csproj|c:\\users\\mahmoud farag\\source\\repos\\patient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA455E60-1A38-493A-9529-4A08DD7A6253}|patient.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA455E60-1A38-493A-9529-4A08DD7A6253}|patient.csproj|c:\\users\\mahmoud farag\\source\\repos\\patient\\data\\patientdashboardcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA455E60-1A38-493A-9529-4A08DD7A6253}|patient.csproj|solutionrelative:data\\patientdashboardcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA455E60-1A38-493A-9529-4A08DD7A6253}|patient.csproj|c:\\users\\mahmoud farag\\source\\repos\\patient\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA455E60-1A38-493A-9529-4A08DD7A6253}|patient.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA455E60-1A38-493A-9529-4A08DD7A6253}|patient.csproj|c:\\users\\mahmoud farag\\source\\repos\\patient\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA455E60-1A38-493A-9529-4A08DD7A6253}|patient.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA455E60-1A38-493A-9529-4A08DD7A6253}|patient.csproj|c:\\users\\mahmoud farag\\source\\repos\\patient\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA455E60-1A38-493A-9529-4A08DD7A6253}|patient.csproj|solutionrelative:controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA455E60-1A38-493A-9529-4A08DD7A6253}|patient.csproj|c:\\users\\mahmoud farag\\source\\repos\\patient\\controllers\\medicalrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA455E60-1A38-493A-9529-4A08DD7A6253}|patient.csproj|solutionrelative:controllers\\medicalrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA455E60-1A38-493A-9529-4A08DD7A6253}|patient.csproj|c:\\users\\mahmoud farag\\source\\repos\\patient\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA455E60-1A38-493A-9529-4A08DD7A6253}|patient.csproj|solutionrelative:controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA455E60-1A38-493A-9529-4A08DD7A6253}|patient.csproj|c:\\users\\mahmoud farag\\source\\repos\\patient\\models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA455E60-1A38-493A-9529-4A08DD7A6253}|patient.csproj|solutionrelative:models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA455E60-1A38-493A-9529-4A08DD7A6253}|patient.csproj|c:\\users\\mahmoud farag\\source\\repos\\patient\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA455E60-1A38-493A-9529-4A08DD7A6253}|patient.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "patient.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud Farag\\source\\repos\\Patient\\Models\\patient.cs",
+              "RelativeDocumentMoniker": "Models\\patient.cs",
+              "ToolTip": "C:\\Users\\Mahmoud Farag\\source\\repos\\Patient\\Models\\patient.cs",
+              "RelativeToolTip": "Models\\patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T10:32:34.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientDashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud Farag\\source\\repos\\Patient\\Controllers\\PatientDashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientDashboardController.cs",
+              "ToolTip": "C:\\Users\\Mahmoud Farag\\source\\repos\\Patient\\Controllers\\PatientDashboardController.cs",
+              "RelativeToolTip": "Controllers\\PatientDashboardController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T10:20:12.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Mahmoud Farag\\source\\repos\\Patient\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Mahmoud Farag\\source\\repos\\Patient\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-31T10:21:10.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mahmoud Farag\\source\\repos\\Patient\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Mahmoud Farag\\source\\repos\\Patient\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-31T10:24:02.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud Farag\\source\\repos\\Patient\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mahmoud Farag\\source\\repos\\Patient\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T10:21:18.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatientDashboardContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud Farag\\source\\repos\\Patient\\Data\\PatientDashboardContext.cs",
+              "RelativeDocumentMoniker": "Data\\PatientDashboardContext.cs",
+              "ToolTip": "C:\\Users\\Mahmoud Farag\\source\\repos\\Patient\\Data\\PatientDashboardContext.cs",
+              "RelativeToolTip": "Data\\PatientDashboardContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T10:21:01.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Mahmoud Farag\\source\\repos\\Patient\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Mahmoud Farag\\source\\repos\\Patient\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-31T10:20:44.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud Farag\\source\\repos\\Patient\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Mahmoud Farag\\source\\repos\\Patient\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T10:20:29.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud Farag\\source\\repos\\Patient\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\Mahmoud Farag\\source\\repos\\Patient\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAYwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T10:20:18.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MedicalRecordsController.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud Farag\\source\\repos\\Patient\\Controllers\\MedicalRecordsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MedicalRecordsController.cs",
+              "ToolTip": "C:\\Users\\Mahmoud Farag\\source\\repos\\Patient\\Controllers\\MedicalRecordsController.cs",
+              "RelativeToolTip": "Controllers\\MedicalRecordsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T10:20:04.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud Farag\\source\\repos\\Patient\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\Mahmoud Farag\\source\\repos\\Patient\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T10:19:55.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MedicalRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud Farag\\source\\repos\\Patient\\Models\\MedicalRecord.cs",
+              "RelativeDocumentMoniker": "Models\\MedicalRecord.cs",
+              "ToolTip": "C:\\Users\\Mahmoud Farag\\source\\repos\\Patient\\Models\\MedicalRecord.cs",
+              "RelativeToolTip": "Models\\MedicalRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T10:19:13.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud Farag\\source\\repos\\Patient\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Mahmoud Farag\\source\\repos\\Patient\\Models\\Appointment.cs",
+              "RelativeToolTip": "Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T10:19:05.852Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
